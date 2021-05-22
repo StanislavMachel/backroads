@@ -250,8 +250,7 @@ Navbar
 }
 
 @media screen and (min-width: 992px) {
-
-  .navbar{
+  .navbar {
     padding: 1rem 2rem;
   }
   /* hide toggle button */
@@ -283,15 +282,15 @@ Navbar
     color: var(--clr-primary-5);
     background: transparent;
   }
-  .nav-icons{
+  .nav-icons {
     display: flex;
   }
-  .nav-icon{
+  .nav-icon {
     margin-right: 0.7rem;
     color: var(--clr-primary-5);
     transition: var(--transition);
   }
-  .nav-icon:hover{
+  .nav-icon:hover {
     color: var(--clr-primary-8);
   }
 }
